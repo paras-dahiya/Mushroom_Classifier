@@ -71,7 +71,7 @@ source env_name/bin/activate
 
 ## Tech
 
-![Tech](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Img/img.png)
+![Tech](https://github.com/paras-dahiya/Mushroom_Classifier/blob/master/img/img.png)
 
 ## Commonds For Running Flask Application in Local System
 
