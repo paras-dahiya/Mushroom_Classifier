@@ -1,0 +1,55 @@
+2022-09-12/00:41:25		GoodRaw directory deleted successfully!!!
+2022-09-12/00:41:25		Bad files moved to archive
+2022-09-12/00:41:25		Bad Raw Data Folder Deleted successfully!!
+2022-09-12/00:48:12		BadRaw directory deleted before starting validation!!!
+2022-09-12/00:48:12		GoodRaw directory deleted successfully!!!
+2022-09-12/00:49:07		GoodRaw directory deleted successfully!!!
+2022-09-12/00:49:07		Bad files moved to archive
+2022-09-12/00:49:07		Bad Raw Data Folder Deleted successfully!!
+2022-09-12/00:54:48		GoodRaw directory deleted successfully!!!
+2022-09-12/00:54:48		Bad files moved to archive
+2022-09-12/00:54:48		Bad Raw Data Folder Deleted successfully!!
+2022-09-12/00:59:43		GoodRaw directory deleted successfully!!!
+2022-09-12/00:59:43		Bad files moved to archive
+2022-09-12/00:59:43		Bad Raw Data Folder Deleted successfully!!
+2022-09-12/01:05:53		GoodRaw directory deleted successfully!!!
+2022-09-12/01:05:53		Bad files moved to archive
+2022-09-12/01:05:53		Bad Raw Data Folder Deleted successfully!!
+2022-09-12/01:09:06		GoodRaw directory deleted successfully!!!
+2022-09-12/01:09:06		Bad files moved to archive
+2022-09-12/01:09:06		Bad Raw Data Folder Deleted successfully!!
+2022-09-12/01:15:50		GoodRaw directory deleted successfully!!!
+2022-09-12/01:15:50		Bad files moved to archive
+2022-09-12/01:15:50		Bad Raw Data Folder Deleted successfully!!
+2022-09-12/01:19:29		GoodRaw directory deleted successfully!!!
+2022-09-12/01:19:29		Bad files moved to archive
+2022-09-12/01:19:29		Bad Raw Data Folder Deleted successfully!!
+2022-09-12/01:26:06		GoodRaw directory deleted successfully!!!
+2022-09-12/01:26:06		Bad files moved to archive
+2022-09-12/01:26:06		Bad Raw Data Folder Deleted successfully!!
+2022-09-12/01:48:48		GoodRaw directory deleted successfully!!!
+2022-09-12/01:48:48		Bad files moved to archive
+2022-09-12/01:48:48		Bad Raw Data Folder Deleted successfully!!
+2022-09-12/01:57:38		GoodRaw directory deleted successfully!!!
+2022-09-12/01:57:38		Bad files moved to archive
+2022-09-12/01:57:38		Bad Raw Data Folder Deleted successfully!!
+2022-09-12/09:05:49		BadRaw directory deleted before starting validation!!!
+2022-09-12/09:05:49		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Training_Raw_files_validated/Good_Raw/mushroom_08012022_120000.csv'
+2022-09-12/09:06:07		GoodRaw directory deleted successfully!!!
+2022-09-12/09:19:43		GoodRaw directory deleted successfully!!!
+2022-09-12/09:19:43		Bad files moved to archive
+2022-09-12/09:19:43		Bad Raw Data Folder Deleted successfully!!
+2022-09-12/09:27:57		GoodRaw directory deleted successfully!!!
+2022-09-12/09:27:57		Bad files moved to archive
+2022-09-12/09:27:57		Bad Raw Data Folder Deleted successfully!!
+2022-09-12/09:35:08		GoodRaw directory deleted successfully!!!
+2022-09-12/09:35:09		Bad files moved to archive
+2022-09-12/09:35:09		Bad Raw Data Folder Deleted successfully!!
+2022-09-12/18:32:23		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Training_Raw_files_validated/Good_Raw/':
+2022-09-12/18:33:25		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Training_Raw_files_validated/Good_Raw/':
+2022-09-12/18:33:52		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Training_Raw_files_validated/Good_Raw/':
+2022-09-12/18:34:52		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Training_Raw_files_validated/Good_Raw/':
+2022-09-12/18:36:18		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Training_Raw_files_validated/Good_Raw/':
+2022-09-12/18:40:16		GoodRaw directory deleted successfully!!!
+2022-09-12/18:40:16		Bad files moved to archive
+2022-09-12/18:40:16		Bad Raw Data Folder Deleted successfully!!

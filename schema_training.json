@@ -1,0 +1,31 @@
+{"SampleFileName": "mushroom_07232022_120000.csv",
+  "LengthofDateStampInFile": 8,
+  "LengthofTimeStampInFile": 6,
+  "noofcolumns": 23,
+  "colName" : {
+              "class": "varchar",
+              "capshape": "varchar",
+              "capsurface": "varchar",
+              "capcolor": "varchar",
+              "bruises%3F": "varchar",
+              "odor": "varchar",
+              "gillattachment": "varchar",
+              "gillspacing": "varchar",
+              "gillsize": "varchar",
+              "gillcolor": "varchar",
+              "stalkshape": "varchar",
+              "stalkroot": "varchar",
+              "stalksurfaceabovering": "varchar",
+              "stalksurfacebelowring": "varchar",
+              "stalkcolorabovering": "varchar",
+              "stalkcolorbelowring": "varchar",
+              "veiltype": "varchar",
+              "veilcolor": "varchar",
+              "ringnumber": "varchar",
+              "ringtype": "varchar",
+              "sporeprintcolor": "varchar",
+              "population": "varchar",
+              "habitat": "varchar"
+  }
+
+}

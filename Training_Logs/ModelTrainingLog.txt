@@ -1,0 +1,92 @@
+2022-09-12/00:41:25		Start of Training
+2022-09-12/00:41:25		Entered the get data method of the Data_Getter class
+2022-09-12/00:41:25		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-12/00:41:25		Entered the is_null_present method of the Preprocessor class
+2022-09-12/00:41:25		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-12/00:41:25		Entered the impute_missing_values method of the Preprocessor class
+2022-09-12/00:41:25		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-09-12/00:41:26		Entered the seperate_label_feature method of the preprocessing class
+2022-09-12/00:41:26		Label seperation Succesfull. Exited the seperate_label feature method od the preproccessor class
+2022-09-12/00:41:26		Entered the elbow_plot method of the KMeansClustering class
+2022-09-12/00:41:43		The optimum number of clusters is: 5 . Exited the elbow_plot method of the KMeansClustering class
+2022-09-12/00:41:43		Entered the create_clusters method of the KMeansClustering class
+2022-09-12/00:41:45		Exception occured in create_clusters method of the KMeansClustering class. Exception message:  'KMeansClustering' object has no attribute 'file_methods'
+2022-09-12/00:41:45		Fitting the data to clusters failed. Exited the create_clusters method of the KMeansClustering class
+2022-09-12/00:41:45		Unsuccessful End of Training
+2022-09-12/01:00:25		Start of Training
+2022-09-12/01:00:25		Entered the get data method of the Data_Getter class
+2022-09-12/01:00:25		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-12/01:00:25		Entered the is_null_present method of the Preprocessor class
+2022-09-12/01:00:25		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-12/01:00:25		Entered the impute_missing_values method of the Preprocessor class
+2022-09-12/01:00:25		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-09-12/01:00:26		Entered the seperate_label_feature method of the preprocessing class
+2022-09-12/01:00:26		Label seperation Succesfull. Exited the seperate_label feature method od the preproccessor class
+2022-09-12/01:00:57		Entered the elbow_plot method of the KMeansClustering class
+2022-09-12/01:01:47		The optimum number of clusters is: 5 . Exited the elbow_plot method of the KMeansClustering class
+2022-09-12/01:02:01		Entered the create_clusters method of the KMeansClustering class
+2022-09-12/01:02:14		Entered the save_model method of the File_Operation class
+2022-09-12/01:02:21		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2022-09-12/01:02:28		succesfully created 5clusters. Exited the create_clusters method of the KMeansClustering class
+2022-09-12/01:03:18		Unsuccessful End of Training
+2022-09-12/18:40:27		Start of Training
+2022-09-12/18:40:27		Entered the get data method of the Data_Getter class
+2022-09-12/18:40:27		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-12/18:40:27		Entered the is_null_present method of the Preprocessor class
+2022-09-12/18:40:27		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-12/18:40:27		Entered the impute_missing_values method of the Preprocessor class
+2022-09-12/18:40:27		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-09-12/18:40:28		Entered the seperate_label_feature method of the preprocessing class
+2022-09-12/18:40:28		Label seperation Succesfull. Exited the seperate_label feature method od the preproccessor class
+2022-09-12/18:40:28		Entered the elbow_plot method of the KMeansClustering class
+2022-09-12/18:40:41		The optimum number of clusters is: 5 . Exited the elbow_plot method of the KMeansClustering class
+2022-09-12/18:40:41		Entered the create_clusters method of the KMeansClustering class
+2022-09-12/18:40:42		Entered the save_model method of the File_Operation class
+2022-09-12/18:40:42		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2022-09-12/18:40:42		succesfully created 5clusters. Exited the create_clusters method of the KMeansClustering class
+2022-09-12/18:40:50		Entered the get_best_model method of the Model_Finder class
+2022-09-12/18:40:50		Entered the get_best_params_for_KNN method of the Model_Finder class 
+2022-09-12/18:43:17		KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the model_finder class
+2022-09-12/18:43:17		AUC for knn:0.9990875912408759
+2022-09-12/18:52:25		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2022-09-12/18:53:26		Random Forest best params: {'criterion': 'gini', 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 130}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2022-09-12/18:53:39		AUC for RF:0.9508474576271186
+2022-09-12/18:54:21		Entered the save_model method of the File_Operation class
+2022-09-12/18:54:33		Model File KNN0 saved. Exited the save_model method of the Model_Finder class
+2022-09-12/18:54:57		Entered the get_best_model method of the Model_Finder class
+2022-09-12/18:54:57		Entered the get_best_params_for_KNN method of the Model_Finder class 
+2022-09-12/18:55:39		KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the model_finder class
+2022-09-12/18:55:39		Accuracy for knn:1.0
+2022-09-12/18:55:39		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2022-09-12/18:56:35		Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2022-09-12/18:56:35		Accuracy for RF:1.0
+2022-09-12/18:56:49		Entered the save_model method of the File_Operation class
+2022-09-12/18:56:53		Model File RandomForest4 saved. Exited the save_model method of the Model_Finder class
+2022-09-12/18:56:56		Entered the get_best_model method of the Model_Finder class
+2022-09-12/18:56:56		Entered the get_best_params_for_KNN method of the Model_Finder class 
+2022-09-12/18:58:28		KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the model_finder class
+2022-09-12/18:58:29		Accuracy for knn:1.0
+2022-09-12/18:58:29		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2022-09-12/18:59:25		Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2022-09-12/18:59:25		Accuracy for RF:1.0
+2022-09-12/18:59:25		Entered the save_model method of the File_Operation class
+2022-09-12/18:59:25		Model File RandomForest2 saved. Exited the save_model method of the Model_Finder class
+2022-09-12/18:59:25		Entered the get_best_model method of the Model_Finder class
+2022-09-12/18:59:25		Entered the get_best_params_for_KNN method of the Model_Finder class 
+2022-09-12/19:00:32		KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the model_finder class
+2022-09-12/19:00:32		Accuracy for knn:1.0
+2022-09-12/19:00:32		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2022-09-12/19:01:28		Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2022-09-12/19:01:28		Accuracy for RF:1.0
+2022-09-12/19:01:28		Entered the save_model method of the File_Operation class
+2022-09-12/19:01:28		Model File RandomForest1 saved. Exited the save_model method of the Model_Finder class
+2022-09-12/19:01:28		Entered the get_best_model method of the Model_Finder class
+2022-09-12/19:01:28		Entered the get_best_params_for_KNN method of the Model_Finder class 
+2022-09-12/19:03:00		KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the model_finder class
+2022-09-12/19:03:00		AUC for knn:1.0
+2022-09-12/19:03:00		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2022-09-12/19:04:01		Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 50}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2022-09-12/19:04:01		AUC for RF:1.0
+2022-09-12/19:04:01		Entered the save_model method of the File_Operation class
+2022-09-12/19:04:01		Model File RandomForest3 saved. Exited the save_model method of the Model_Finder class
+2022-09-12/19:04:01		Successful End of Training

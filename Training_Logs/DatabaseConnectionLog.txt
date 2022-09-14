@@ -1,0 +1,84 @@
+2022-09-12/00:40:17		Opened Training database successfully
+2022-09-12/00:40:18		Tables created successfully!!
+2022-09-12/00:40:18		Closed Training database successfully
+2022-09-12/00:40:18		Opened Training database successfully
+2022-09-12/00:41:25		Opened Training database successfully
+2022-09-12/00:47:31		Opened Training database successfully
+2022-09-12/00:47:31		Tables created successfully!!
+2022-09-12/00:47:31		Closed Training database successfully
+2022-09-12/00:47:31		Opened Training database successfully
+2022-09-12/00:48:12		Opened Training database successfully
+2022-09-12/00:48:12		Tables created successfully!!
+2022-09-12/00:48:12		Closed Training database successfully
+2022-09-12/00:48:12		Opened Training database successfully
+2022-09-12/00:49:07		Opened Training database successfully
+2022-09-12/00:54:01		Opened Training database successfully
+2022-09-12/00:54:01		Tables created successfully!!
+2022-09-12/00:54:01		Closed Training database successfully
+2022-09-12/00:54:01		Opened Training database successfully
+2022-09-12/00:54:48		Opened Training database successfully
+2022-09-12/00:59:00		Opened Training database successfully
+2022-09-12/00:59:00		Tables created successfully!!
+2022-09-12/00:59:00		Closed Training database successfully
+2022-09-12/00:59:00		Opened Training database successfully
+2022-09-12/00:59:43		Opened Training database successfully
+2022-09-12/01:04:58		Opened Training database successfully
+2022-09-12/01:04:58		Tables created successfully!!
+2022-09-12/01:04:58		Closed Training database successfully
+2022-09-12/01:04:58		Opened Training database successfully
+2022-09-12/01:05:54		Opened Training database successfully
+2022-09-12/01:08:20		Opened Training database successfully
+2022-09-12/01:08:20		Tables created successfully!!
+2022-09-12/01:08:20		Closed Training database successfully
+2022-09-12/01:08:20		Opened Training database successfully
+2022-09-12/01:09:06		Opened Training database successfully
+2022-09-12/01:15:06		Opened Training database successfully
+2022-09-12/01:15:06		Tables created successfully!!
+2022-09-12/01:15:06		Closed Training database successfully
+2022-09-12/01:15:06		Opened Training database successfully
+2022-09-12/01:15:50		Opened Training database successfully
+2022-09-12/01:18:46		Opened Training database successfully
+2022-09-12/01:18:46		Tables created successfully!!
+2022-09-12/01:18:46		Closed Training database successfully
+2022-09-12/01:18:46		Opened Training database successfully
+2022-09-12/01:19:29		Opened Training database successfully
+2022-09-12/01:24:44		Opened Training database successfully
+2022-09-12/01:24:44		Tables created successfully!!
+2022-09-12/01:24:44		Closed Training database successfully
+2022-09-12/01:24:44		Opened Training database successfully
+2022-09-12/01:26:06		Opened Training database successfully
+2022-09-12/01:48:05		Opened Training database successfully
+2022-09-12/01:48:05		Tables created successfully!!
+2022-09-12/01:48:05		Closed Training database successfully
+2022-09-12/01:48:05		Opened Training database successfully
+2022-09-12/01:48:48		Opened Training database successfully
+2022-09-12/01:56:53		Opened Training database successfully
+2022-09-12/01:56:53		Tables created successfully!!
+2022-09-12/01:56:53		Closed Training database successfully
+2022-09-12/01:56:53		Opened Training database successfully
+2022-09-12/01:57:38		Opened Training database successfully
+2022-09-12/09:05:17		Opened Training database successfully
+2022-09-12/09:05:17		Tables created successfully!!
+2022-09-12/09:05:17		Closed Training database successfully
+2022-09-12/09:05:17		Opened Training database successfully
+2022-09-12/09:06:07		Opened Training database successfully
+2022-09-12/09:18:58		Opened Training database successfully
+2022-09-12/09:18:58		Tables created successfully!!
+2022-09-12/09:18:59		Closed Training database successfully
+2022-09-12/09:18:59		Opened Training database successfully
+2022-09-12/09:19:43		Opened Training database successfully
+2022-09-12/09:27:11		Opened Training database successfully
+2022-09-12/09:27:11		Tables created successfully!!
+2022-09-12/09:27:11		Closed Training database successfully
+2022-09-12/09:27:11		Opened Training database successfully
+2022-09-12/09:27:57		Opened Training database successfully
+2022-09-12/09:34:26		Opened Training database successfully
+2022-09-12/09:34:26		Tables created successfully!!
+2022-09-12/09:34:26		Closed Training database successfully
+2022-09-12/09:34:26		Opened Training database successfully
+2022-09-12/09:35:09		Opened Training database successfully
+2022-09-12/18:39:13		Opened Training database successfully
+2022-09-12/18:39:13		Tables created successfully!!
+2022-09-12/18:39:13		Closed Training database successfully
+2022-09-12/18:39:16		Opened Training database successfully
+2022-09-12/18:40:16		Opened Training database successfully
