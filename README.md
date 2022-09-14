@@ -34,7 +34,7 @@ learning algorithms that’s best fit for the above case.
 ## Data set 
 
 ```bash
-https://www.kaggle.com/datasets/uciml/mushroom-classification-mh
+https://www.kaggle.com/datasets/uciml/mushroom-classification
 ```
 ## Steps
 
