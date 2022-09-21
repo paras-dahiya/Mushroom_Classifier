@@ -2,18 +2,6 @@
 
 # ineuron-intern-Project
 
-## Github Push Pull Commonds
-
-```bash
-echo "# Mushroom_Classifier" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M master
-git remote add origin https://github.com/bhushanasati25/ineuron-intern-Project.git
-git push -u origin master
-```
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
@@ -69,26 +57,44 @@ Activate the virtual environment0
 source env_name/bin/activate
 ```
 
+## How to Use
+
+To use this project on your system, follow these steps:
+
+1.Clone this repository onto your system by typing the following command on your Command Prompt:
+
+```
+git clone https://github.com/paras-dahiya/maskdetection.git
+```
+followed by:
+
+```
+cd Mushroom_Classifier
+```
+
+2. Download all libaries using::
+```
+pip install -r requirements.txt
+```
+
+3. Run app.py by typing the following command on your Command Prompt:
+```bash
+python3 -m flask run
+```
+#### The Project is now ready to use !!
 ## Tech
 
 ![Tech](https://github.com/paras-dahiya/Mushroom_Classifier/blob/master/img/img.png)
 
 ## Commonds For Running Flask Application in Local System
 
-```bash
-python3 -m flask run
-```
 
-## Project Deployed Link 
 
-- https://ffprediction.herokuapp.com/ 
-
-- [Deployed Link](https://ffprediction.herokuapp.com/)
 
 ## Output Images
 
-![Output](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Output%20Images/Output1.png)
-![Output](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Output%20Images/Output2.png)
+![Output](https://github.com/paras-dahiya/Mushroom_Classifier/blob/master/img/OutputImage.PNG)
+
 
 ## Authors
 
